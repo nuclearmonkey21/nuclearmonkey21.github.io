@@ -2,7 +2,7 @@
 title:  "First Profile Post"
 
 categories:
-  - Profile
+  - Gitblog
 
 toc: true
 toc_sticky: true
