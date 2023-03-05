@@ -10,3 +10,21 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+categories:
+  - title: "Operating System"
+    children:
+      - title: "Mac"
+        url: mac/
+        category: "Mac"
+      - title: "Linux"
+        url: linux/
+        category: "Linux"
+  - title: "Github"
+    children:
+      - title: "Git"
+        url: git/
+        category: "Git"
+      - title: "Blog"
+        url: blog/
+        category: "Blog"
