@@ -12,6 +12,11 @@ main:
   #   url: /sitemap/
 
 categories:
+  - title: "Life"
+    children:
+      - title: "TMI"
+        url: tmi/
+        category: "TMI"
   - title: "Operating System"
     children:
       - title: "Mac"
