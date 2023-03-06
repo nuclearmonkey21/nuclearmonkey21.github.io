@@ -1,6 +1,6 @@
 ---
 title: "Mac"
-layout: categories
+layout: archive
 permalink: /mac/
 author_profile: true
 ---

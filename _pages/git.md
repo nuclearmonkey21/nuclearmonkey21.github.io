@@ -1,6 +1,6 @@
 ---
 title: "Git"
-layout: categories
+layout: archive
 permalink: /git/
 author_profile: true
 ---

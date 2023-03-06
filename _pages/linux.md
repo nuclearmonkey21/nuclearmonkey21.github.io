@@ -1,6 +1,6 @@
 ---
 title: "Linux"
-layout: categories
+layout: archive
 permalink: /linux/
 author_profile: true
 ---

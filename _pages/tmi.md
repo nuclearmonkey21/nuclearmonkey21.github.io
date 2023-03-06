@@ -1,6 +1,6 @@
 ---
 title: "TMI"
-layout: categories
+layout: archive
 permalink: /tmi/
 author_profile: true
 ---
