@@ -17,9 +17,9 @@
         <ul>
           {% for child in nav.children %}
           {% assign category = site.categories[child.category] | where_exp: "item", "item.hidden != true" %}
-          {% if category.size != null %}
-            <li><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }} ({{ category.size }})</a></li>
-          {% endif %}
+            <li>
+              <a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }} ({% if category.size != null %}{{ category.size }}{% else %}0{% endif %})</a>
+            </li>
           {% endfor %}
         </ul>
         {% endif %}
