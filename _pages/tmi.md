@@ -3,6 +3,8 @@ title: "TMI"
 layout: archive
 permalink: /tmi/
 author_profile: true
+sidebar:
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.TMI %}

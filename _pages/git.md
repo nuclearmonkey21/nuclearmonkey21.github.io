@@ -3,6 +3,8 @@ title: "Git"
 layout: archive
 permalink: /git/
 author_profile: true
+sidebar:
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.Git %}

@@ -3,6 +3,8 @@ title: "Mac"
 layout: archive
 permalink: /mac/
 author_profile: true
+sidebar:
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.Mac %}

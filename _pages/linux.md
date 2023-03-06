@@ -3,6 +3,8 @@ title: "Linux"
 layout: archive
 permalink: /linux/
 author_profile: true
+sidebar:
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.Linux %}
