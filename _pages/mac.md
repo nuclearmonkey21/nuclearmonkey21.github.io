@@ -1,7 +1,7 @@
 ---
 title: "Mac"
 layout: categories
-permalink: /mac
+permalink: /mac/
 author_profile: true
 ---
 

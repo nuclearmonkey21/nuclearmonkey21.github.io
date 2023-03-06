@@ -1,7 +1,7 @@
 ---
 title: "Linux"
 layout: categories
-permalink: /linux
+permalink: /linux/
 author_profile: true
 ---
 

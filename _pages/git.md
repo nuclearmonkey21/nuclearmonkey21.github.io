@@ -1,7 +1,7 @@
 ---
 title: "Git"
 layout: categories
-permalink: /git
+permalink: /git/
 author_profile: true
 ---
 

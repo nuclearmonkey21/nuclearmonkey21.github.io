@@ -1,7 +1,7 @@
 ---
 title: "TMI"
 layout: categories
-permalink: /tmi
+permalink: /tmi/
 author_profile: true
 ---
 

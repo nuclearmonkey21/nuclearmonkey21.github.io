@@ -15,21 +15,21 @@ categories:
   - title: "Life"
     children:
       - title: "TMI"
-        url: tmi/
+        url: /tmi/
         category: "TMI"
   - title: "Operating System"
     children:
       - title: "Mac"
-        url: mac/
+        url: /mac/
         category: "Mac"
       - title: "Linux"
-        url: linux/
+        url: /linux/
         category: "Linux"
   - title: "Github"
     children:
       - title: "Git"
-        url: git/
+        url: /git/
         category: "Git"
       - title: "Blog"
-        url: blog/
+        url: /blog/
         category: "Blog"
