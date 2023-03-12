@@ -17,17 +17,17 @@ last_modified_at: 2023-03-12
 
 # 1. **GitHub Blog**란?
 ---
-   [GitHub](https://github.com/)에서 제공하는 무료 호스팅 서비스 [GitHub Pages](https://pages.github.com/)를 통해 생성, 운영되는 블로그를 지칭하는 단어이다.  
+&nbsp;[GitHub](https://github.com/)에서 제공하는 무료 호스팅 서비스 [GitHub Pages](https://pages.github.com/)를 통해 생성, 운영되는 블로그를 지칭하는 단어이다.  
 <br><br>
 
 # 2. **GitHub Blog** 를 사용하는 이유?
 ---
-   대체로 **GitHub Blog**를 사용하는 이유는 ```자유로운 커스터마이징```과 함께 ```Git를 통한 관리``` 그리고 ```무료 호스팅 서비스```가 가능하다는 점을 비롯해 ```Google AdSense를 통한 수익창출```이 가능하다는 점에서 많은 유저들에게 각광받고 있지만 확실한 단점으로 지적되는 높은 진입장벽과 기능의 부재는 **GitHub Blog**의 주요 사용자인 개발자들에게는 해당되지 않으므로 많은 개발자들이 선호하는 블로그 플랫폼이다.  
+&nbsp;대체로 **GitHub Blog**를 사용하는 이유는 ```자유로운 커스터마이징```과 함께 ```Git를 통한 관리``` 그리고 ```무료 호스팅 서비스```가 가능하다는 점을 비롯해 ```Google AdSense를 통한 수익창출```이 가능하다는 점에서 많은 유저들에게 각광받고 있지만 확실한 단점으로 지적되는 높은 진입장벽과 기능의 부재는 **GitHub Blog**의 주요 사용자인 개발자들에게는 해당되지 않으므로 많은 개발자들이 선호하는 블로그 플랫폼이다.  
 <br><br>
 
 # 3. **GitHub Blog** 생성
 ---
-   **GitHub Blog**를 시작하기 위해서 [GitHub](https://github.com/)에서 [GitHub Pages](https://pages.github.com/)서비스를 통해 **Repository**를 호스팅 해보도록 하자!
+&nbsp;**GitHub Blog**를 시작하기 위해서 [GitHub](https://github.com/)에서 [GitHub Pages](https://pages.github.com/)서비스를 통해 **Repository**를 호스팅 해보도록 하자!
 
 1. **New Repository** 준비  
   - [GitHub](https://github.com/)로 이동하여 상단에 있는 **+** 드롭다운을 누르고 ```New repository```를 선택하여 **Repository** 생성에 들어가보자.  
@@ -79,5 +79,5 @@ last_modified_at: 2023-03-12
 
 # 4. 마무리
 ---
-   이번 포스트에서는 **GitHub Blog**를 시작하기 위해 **Repository 생성**과 생성된 **Repository**를 **Pages** 서비스를 통해 호스팅 해봤으니 다음 포스트에서 ```Jekyll``` 테마를 통해 **GitHub Blog**를 진짜 블로그처럼 만드는 방법을 배워보도록하자.  
+&nbsp;이번 포스트에서는 **GitHub Blog**를 시작하기 위해 **Repository 생성**과 생성된 **Repository**를 **Pages** 서비스를 통해 호스팅 해봤으니 다음 포스트에서 ```Jekyll``` 테마를 통해 **GitHub Blog**를 진짜 블로그처럼 만드는 방법을 배워보도록하자.  
 <br><br><br><br>
