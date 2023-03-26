@@ -28,7 +28,7 @@ categories:
   - title: "Github"
     children:
       - title: "Git"
-        url: /git/
+        url: categories/git
         category: "Git"
       - title: "GitHub Blog"
         url: /github blog/
