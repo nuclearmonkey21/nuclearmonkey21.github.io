@@ -1,11 +1,11 @@
 ---
-title: "Blog"
+title: "GitHub Blog"
 layout: archive
-permalink: /blog/
+permalink: /gitbhub blog/
 author_profile: true
 sidebar:
   nav: "categories"
 ---
 
-{% assign posts = site.categories.Blog %}
+{% assign posts = site.categories['GitHub Blog'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
