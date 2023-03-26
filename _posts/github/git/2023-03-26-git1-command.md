@@ -55,7 +55,7 @@ last_modified_at: 2023-03-26
 || add \<name\> \<url\> | Remote Repository 연결 추가 <br> ex) git remote add origin http://... |
 || remove \<name\> | Remote Repository 연결 해제 <br> ex) git remote remove origin |
 | git merge \<branch-name\> || Branch 병합 <br> ex) git merge newbranch |
-| git pull \<url\> | Repository 또는 Local Branch에서 작업 데이터를 가져와서 통합 <br> ex) git pull http://... |
+| git pull \<url\> || Repository 또는 Local Branch에서 작업 데이터를 가져와서 통합 <br> ex) git pull http://... |
 
 <br>
 
