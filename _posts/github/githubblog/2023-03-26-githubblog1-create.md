@@ -23,50 +23,50 @@ last_modified_at: 2023-03-26
 ---
 1. **New Repository** 준비  
   - &nbsp;[GitHub](https://github.com/)로 이동하여 상단에 있는 **+** 드롭다운을 누르고 `New repository`를 선택하여 **Repository** 생성에 들어가보자.  
-  ![image](/assets/images/blog0/3-1.webp)  
+  ![image](/assets/images/githubblog/1/3-1.webp)  
   <br><br>
 
 2. **Repository** 이름 설정  
   - &nbsp;[GitHub Pages](https://pages.github.com/)서비스를 이용하기 위해서는 반드시 `Repository name`을 ***username*****.github.io**로 작성하여야하며 여기서 ***username***은 `GitHub의 사용자 이름`을 의미한다.  
-  ![image](/assets/images/blog0/3-2.webp)  
+  ![image](/assets/images/githubblog/1/3-2.webp)  
   <br><br>
 
 3. **Repository** 공개 범위 설정  
   - - [x] **Public**으로 선택하자.  
-  ![image](/assets/images/blog0/3-3.webp)  
+  ![image](/assets/images/githubblog/1/3-3.webp)  
   <br><br>
 
 4. **README.md** 파일을 추가해서 **Repository** 초기화  
   - - [x] **Initialize this repository with**으로 선택하자.  
   &nbsp;(**Repository** 생성시 추가 명령어 없이 **README.md**를 생성해서 초기화 해준다.)  
-  ![image](/assets/images/blog0/3-4.webp)  
+  ![image](/assets/images/githubblog/1/3-4.webp)  
   <br><br>
 
 5. **Repository** 생성 
   - &nbsp;`Create repository`를 클릭해서 생성 
-  ![image](/assets/images/blog0/3-5.webp)  
+  ![image](/assets/images/githubblog/1/3-5.webp)  
   <br><br>
 
 6. **Repository** 설정  
   - &nbsp;**Repository** 생성이 끝났으니 **Pages** 설정을 통해 **Repository**를 호스팅해보도록 하자.  
-  ![image](/assets/images/blog0/3-6.webp)  
+  ![image](/assets/images/githubblog/1/3-6.webp)  
   <br><br>
 
 7. 호스팅에 사용할 **branch** 설정  
   - &nbsp;`3-4`에서 생성된 `main` **Branch**를 선택 후 `Save` 버튼을 누르자.  
-  ![image](/assets/images/blog0/3-7.webp)  
+  ![image](/assets/images/githubblog/1/3-7.webp)  
   <br><br>
   
 8. 호스팅 완료  
   - &nbsp;아래와 같은 문구가 생성되면 호스팅 완료.  
   (호스팅되기까지 `최대 10분`까지 걸릴 수 있으므로 바로 보이지 않는다고해서 너무 걱정말자.)  
-  ![image](/assets/images/blog0/3-8.webp)  
+  ![image](/assets/images/githubblog/1/3-8.webp)  
   <br><br>
 
 9. 사이트 방문  
   - &nbsp;`Visit site`를 클릭해서 사이트로 접속해보면 `404`가 뜨는것을 볼 수 있다.  
-  &nbsp;(그건 아직 **Repository**에 `index.html`이나 `index.md`파일이 없기 때문이니 걱정할 필요는 없다.)  
-  ![image](/assets/images/blog0/3-9.webp)  
+  &nbsp;(그건 아직 **Repository**에 `index.html`이나 `index.md`파일이 없기 때문이니 걱정할 필요는 없다.) 
+  ![image](/assets/images/githubblog/1/3-9.webp)  
   <br><br>
 <br><br>
 
