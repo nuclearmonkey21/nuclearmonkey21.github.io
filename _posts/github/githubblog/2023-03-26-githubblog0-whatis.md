@@ -26,5 +26,5 @@ last_modified_at: 2023-03-26
 
 # 3. 마무리
 ---
-&nbsp;이번 포스트에서는 **GitHub Blog*에 대해서 알아봤으니 다음 포스트에서는 **GitHub Blog**를 시작하기 위한 **Repository 생성**과 생성된 **Repository**를 **GitHub Pages** 서비스를 통해 호스팅 하는 방법을 알아보자.  
+&nbsp;이번 포스트에서는 **GitHub Blog**에 대해서 알아봤으니 다음 포스트에서는 **GitHub Blog**를 시작하기 위한 **Repository 생성**과 생성된 **Repository**를 **GitHub Pages** 서비스를 통해 호스팅 하는 방법을 알아보자.  
 <br><br><br><br>
