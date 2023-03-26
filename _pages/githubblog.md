@@ -1,7 +1,7 @@
 ---
 title: "GitHub Blog"
 layout: archive
-permalink: /gitbhubblog/
+permalink: /github blog/
 author_profile: true
 sidebar:
   nav: "categories"
