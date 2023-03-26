@@ -3,10 +3,9 @@ title: "[GitHub Blog]#1 깃허브(GitHub) 블로그를 시작해보자."
 excerpt: "GitHub Blog에대해 알아보고 시작하는 방법에 대해 알아보자!"
 
 categories:
-  - Blog
+  - GitHub Blog
 tags:
-  - Git
-  - Blog
+  - GitHub Blog
 
 toc: true
 toc_sticky: true
