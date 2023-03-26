@@ -36,17 +36,17 @@ last_modified_at: 2023-03-26
 ---
 <br>
 
-| 명령어 | 옵션 | 설명 |
+| 명령어 | 옵션( 예제 ) | 설명 |
 |:---:|:---|:---|
-| git init || Local Repository `생성` 및 기존 Local Repository `초기화` |
-| git clone <repo> || Remote Repository를 Directory에 복제 |
-| git status || git status | 작업 트리 상태 표시 |
+| git init | ( git init ) | Local Repository `생성` 및 기존 Local Repository `초기화` |
+| git clone <repo> | ( git clone http://... ) | Remote Repository를 Directory에 복제 |
+| git status | ( git status ) | 작업 트리 상태 표시 |
 | git add || 인덱스(Staging Area)에 파일 내용 추가 |
-|| ., -A, --all | 모든 추적 및 추적되지 않은 파일에서 변경 사항을 추가 |
-|| <pathspec> | git add <pathspec> | 단일 파일에서 변경 사항을 추가 |
+|| ., -A, --all ( git add --all ) | 모든 추적 및 추적되지 않은 파일에서 변경 사항을 추가 |
+|| <pathspec> ( git add README.md ) | 단일 파일에서 변경 사항을 추가 |
 | git commit || Local Repository에 변경 사항 기록 |
-|| -m, --message <message> | 짧은 변경 사항 기록 |
-| git push <remote> <branch> ||Remote Repository에 변경 사항을 업데이트 |
+|| -m, --message <message> ( git commit -m "First Commit" | 짧은 변경 사항 기록 |
+| git push <remote> <branch> | ( git push origin master ) |Remote Repository에 변경 사항을 업데이트 |
 
 
 <br><br>
