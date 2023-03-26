@@ -30,6 +30,6 @@ categories:
       - title: "Git"
         url: /git/
         category: "Git"
-      - title: "Blog"
-        url: /blog/
-        category: "Blog"
+      - title: "GitHub Blog"
+        url: /github blog/
+        category: "GitHub Blog"
