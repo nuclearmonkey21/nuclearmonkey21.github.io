@@ -1,7 +1,7 @@
 ---
 title: "Mac"
 layout: archive
-permalink: /mac/
+permalink: categories/mac/
 author_profile: true
 sidebar:
   nav: "categories"
