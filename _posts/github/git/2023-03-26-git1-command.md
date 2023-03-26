@@ -36,26 +36,26 @@ last_modified_at: 2023-03-26
 ---
 <br>
 
-| 명령어 | 옵션 | 설명 ex) ... |
+| 명령어 | 옵션 | 설명 `ex) ...` |
 |---|---|---|
-| git init || Local Repository `생성` 및 기존 Local Repository `초기화` <br> ex) git init |
-| git clone \<repo\> || Remote Repository를 Directory에 복제 <br> ex) git clone http://... |
-| git status || 작업 트리 상태 표시 <br> ex) git status |
-| git add || 인덱스(Staging Area)에 파일 내용 추가 |
-|| ., -A, --all | 모든 추적 및 추적되지 않은 파일에서 변경 사항을 추가 <br> ex) git add --all |
-|| \<pathspec\> | 단일 파일에서 변경 사항을 추가 <br> ex) git add --all  |
-| git commit || Local Repository에 변경 사항 기록 |
-|| -m, --message \<message\> | 짧은 변경 사항 기록 <br> ex) git commit -m "First Commit" |
-| git push \<remote\> \<branch\> || Remote Repository에 변경 사항을 업데이트 <br> ex) git push origin master |
+| git init || Local Repository `생성` 및 기존 Local Repository `초기화` <br> `ex) git init` |
+| git clone \<repo\> || Remote Repository를 Directory에 `복제` <br> ex) `git clone http://...` |
+| git status || 작업 트리 상태 표시 <br> `ex) git status` |
+| git add || `인덱스(Staging Area)`에 파일 변경 사항 추가 |
+|| ., -A, --all | 모든 추적 및 추적되지 않은 파일에서 변경 사항을 추가 <br> `ex) git add --all` |
+|| \<pathspec\> | 단일 파일에서 변경 사항을 추가 <br> `ex) git add --all`  |
+| git commit || `Local Repository`에 변경 사항 기록 |
+|| -m, --message \<message\> | 짧은 변경 사항 기록 <br> `ex) git commit -m "First Commit"` |
+| git push \<remote\> \<branch\> || `Remote Repository`에 변경 사항을 업데이트 <br> `ex) git push origin master` |
 | git branch || Branch  목록 출력 <br> ex) git branch |
 || \<branch-name\> | Branch 생성 <br> ex) git branch newbranch |
-|| -d, --delete \<branch-name\> | Branch 삭제 <br> ex) git branch -d newbranch |
-| git checkout \<branch-name\> || Branch 이동 <br> ex) git checkout newbranch |
+|| -d, --delete \<branch-name\> | Branch `삭제` <br> ex) git branch -d newbranch |
+| git checkout \<branch-name\> || Branch `이동` <br> ex) git checkout newbranch |
 | git remote || Remote Repository 연결 목록 출력 <br> ex) git remote|
-|| add \<name\> \<url\> | Remote Repository 연결 추가 <br> ex) git remote add origin http://... |
-|| remove \<name\> | Remote Repository 연결 해제 <br> ex) git remote remove origin |
-| git merge \<branch-name\> || Branch 병합 <br> ex) git merge newbranch |
-| git pull \<url\> || Repository 또는 Local Branch에서 작업 데이터를 가져와서 통합 <br> ex) git pull http://... |
+|| add \<name\> \<url\> | Remote Repository `연결` <br> ex) git remote add origin http://... |
+|| remove \<name\> | Remote Repository `해제` <br> ex) git remote remove origin |
+| git merge \<branch-name\> || Branch `병합` <br> ex) git merge newbranch |
+| git pull \<url\> || Repository 또는 Local Branch에서 작업 데이터를 가져와서 `통합` <br> ex) git pull http://... |
 
 <br>
 
