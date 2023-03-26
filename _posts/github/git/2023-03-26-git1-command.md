@@ -22,7 +22,7 @@ last_modified_at: 2023-03-26
 <br>
 `로컬 저장소(Local Repository)`: 사용자의 PC에서 관리하는 Git의 저장 공간`git commit`  
 <br>
-`스테이징 영역(Staging Area)`: 작업 폴더(Working Directory)에서 변경된 사항을 로컬 저장소(Local Repository)에 전달하기 위해 기록되는 공간`git add`  
+`스테이징 영역(Staging Area)`: 작업 폴더(Working Directory)에서 변경된 사항을 로컬 저장소(Local Repository)에 전달하기 위해 기록되는 공간 Git에서는 `Index`라고 명명됨 `git add`  
 <br>
 `작업 폴더(Working Directory)`: 개발자의 실제 작업 공간 Git에서 관리는 하지만 추적은 하지 않는다. 
 <br>
@@ -36,9 +36,18 @@ last_modified_at: 2023-03-26
 ---
 <br>
 
-| 명령어 | 예제 | 설명 |
+| 명령어 | 옵션 | 설명 |
 |:---:|:---|:---|
-||||
+| git init || Local Repository `생성` 및 기존 Local Repository `초기화` |
+| git clone <repo> || Remote Repository를 Directory에 복제 |
+| git status || git status | 작업 트리 상태 표시 |
+| git add || 인덱스(Staging Area)에 파일 내용 추가 |
+|| ., -A, --all | 모든 추적 및 추적되지 않은 파일에서 변경 사항을 추가 |
+|| <pathspec> | git add <pathspec> | 단일 파일에서 변경 사항을 추가 |
+| git commit || Local Repository에 변경 사항 기록 |
+|| -m, --message <message> | 짧은 변경 사항 기록 |
+| git push <remote> <branch> ||Remote Repository에 변경 사항을 업데이트 |
+
 
 <br><br>
 
