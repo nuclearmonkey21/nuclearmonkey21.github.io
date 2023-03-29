@@ -53,7 +53,7 @@ last_modified_at: 2023-03-26
   <br><br>
 
 7. 호스팅에 사용할 **branch** 설정  
-  - &nbsp;`3-4`에서 생성된 `main` **Branch**를 선택 후 `Save` 버튼을 누르자.  
+  - &nbsp;기본적으 생성되는 `main` **Branch**를 선택 후 `Save` 버튼을 누르자.  
   ![image](/assets/images/githubblog/1/3-7.webp)  
   <br><br>
   
